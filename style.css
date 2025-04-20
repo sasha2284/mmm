@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-color: #b00d0d;
+}
+
+h1 {
+    text-align: center;
+    background-color: #b00d0d;
+}
+
+iframe {
+    margin: 10px;
+}
