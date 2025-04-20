@@ -5,7 +5,7 @@
   </head>
   <body>
     <header>
-      <a class="link-header" href="index.html">Главная</a>
+      <a class="link-header" href="index.html">Мои работы</a>
     </header>
     <main>
       <h1>Хмелёва Александра</h1>
